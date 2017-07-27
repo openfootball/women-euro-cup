@@ -1,0 +1,46 @@
+#  Women's Euro 2011 - The Netherlands
+
+################
+# Groups
+
+Group A |  Netherlands    Norway        Denmark     Belgium
+Group B |  Germany        Sweden        Italy       Russia
+Group C |  France         Switzerland   Iceland     Austria
+Group D |  England        Spain         Scotland    Portugal
+
+
+###############################################################################
+# Group phase
+###############################################################################
+
+################
+# Group A
+
+Matchday 1
+
+( ) July/16 18:00    Netherlands 	1-0	 Norway   @ Stadion Galgenwaard, Utrecht
+          [Van de Sanden 66']
+
+() July/16 20:45     Denmark 	1-0	 Belgium      @ De Vijverberg, Doetinchem
+         [Troelsgaard 6']
+
+Matchday 2
+
+() July/20 18:00    Norway 	0-2	 Belgium   @ Rat Verlegh Stadion, Breda
+         [-; Van Gorp 59' Cayman 67']
+
+() July/20 20:45    Netherlands 1-0	 Denmark   @ Sparta Stadion Het Kasteel, Rotterdam
+         [Spitse 20' (pen.)]
+
+
+Matchday 3
+
+() July/24 20:45   Belgium 	1-2	 Netherlands   @ Koning Willem II Stadion, Tilburg
+                    [Wullaert 59'; Spitse 27' (pen.); Martens 74']
+
+() July/24 20:45    Norway 	0-1	 Denmark    @ De Adelaarshorst, Deventer
+                     [-; Veje 5']
+
+
+
+ 
